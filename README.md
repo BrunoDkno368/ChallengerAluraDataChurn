@@ -1,4 +1,4 @@
-![genero](https://github.com/user-attachments/assets/53cc0fbe-313f-4924-8f6d-307db2ccd29c)                                                         PROYECTO
+                                                         PROYECTO
 
 A continuacion brindamos la resolucion del Proyecto propuesto por la plataforma Alura Latam en la especializacion de Analisis de datos
 
