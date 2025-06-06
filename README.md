@@ -57,6 +57,7 @@ hacemos una visualizacion de los valores para deteminar como estan distrubuidos 
 Mostramos graficamente las variables categoricas que vamos a comparar con el cancelacion del servicio 
 
 Comparamos el genero
+
 ![genero](https://github.com/user-attachments/assets/f0384765-a8c2-4126-96d8-f53e56ba5676)
 
 
@@ -66,6 +67,7 @@ El tipo de contrato
 
 
 El metodo de pago 
+
 ![metodo de pago](https://github.com/user-attachments/assets/002ad61b-0ba1-4ef7-a8d4-bcac6dddd19c)
 
 
